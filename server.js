@@ -1,6 +1,5 @@
 var express = require('express');
 var path = require('path');
-var http = require('http');
 var serveStatic = require('serve-static');
 
 app = express();
